@@ -2,12 +2,16 @@
 
 An artificial intelligence benchmark for the strategic board game **Hex (9x9)**, evaluating and comparing graph-based heuristics, evolutionary optimization (CMA-ES), and deep reinforcement learning (Maskable PPO with a deep ResNet architecture).
 
-> 📄 **Project Report (in Polish):** The full, detailed academic report is available in the repository: [`Sprawozdanie_Zachowanie botów optymalizacja vs uczenie vs heurystyka.pdf`](./Sprawozdanie_Zachowanie%20botów%20optymalizacja%20vs%20uczenie%20vs%20heurystyka-1.pdf).
+📄 **Project Report:** 
+A full, detailed academic report analyzing bot behaviors (Optimization vs. Reinforcement Learning vs. Heuristics) is available in the repository:
+* 🇵🇱 [Original Version (Polish)](./Sprawozdanie_Zachowanie%20botów%20optymalizacja%20vs%20uczenie%20vs%20heurystyka-1.pdf)
+* 🇬🇧 [English Version (LLM Translated)](./Report_Bot_Behaviors_LLM_Translated.pdf)
 
 ---
 
 > 🚀 **[PLAY LIVE IN YOUR BROWSER](https://damiankrzyzelewski.github.io/hex_web/)** 
 > *A client-side web version powered by ONNX Runtime Web is now available! No installation required.*
+> *You can find details here: `https://github.com/damiankrzyzelewski/hex_web/`*
 
 ## 🏆 Key Highlights & Results
 
