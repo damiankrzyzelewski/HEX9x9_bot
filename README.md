@@ -6,6 +6,9 @@ An artificial intelligence benchmark for the strategic board game **Hex (9x9)**,
 
 ---
 
+> 🚀 **[PLAY LIVE IN YOUR BROWSER](https://damiankrzyzelewski.github.io/hex_web/)** 
+> *A client-side web version powered by ONNX Runtime Web is now available! No installation required.*
+
 ## 🏆 Key Highlights & Results
 
 * **Maskable PPO (3.5M steps)**: Emerged as the undisputed tournament winner with a **92.9% overall win rate** across a 90,000-game round-robin tournament. The model naturally learned advanced Hex concepts, including distance blocking, bridge connections, and optimal swap-rule utilization.
